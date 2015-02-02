@@ -3,11 +3,9 @@
 
 <b>Overview</b>
 
-This is some code I wrote a years ago when I started programming. It was my introduction to game programming program. At the time I was pretty proud of the code, now I realize it's kind of a mess in need of refactoring and other design changes. There are little hacks all over the place. Despite it's messiness, it does run pretty well. By default the level loader loads a single level which you cannot complete. Death is not implemented, but a message is printed to console when you die. 
+This is some code I wrote a years ago when I started programming. It was my introduction to game programming program. At the time I was pretty proud of the code, now I realize it is not any good. There are little hacks all over the place. Despite the messiness, it does run pretty well. By default the level loader loads a single level which you cannot complete. Death is not implemented, but a message is printed to console when you die. 
 
-I've decided to post this project to motivate myself to maybe look at the code once again and for anybody else that is interested. There are a lot of good Mario resource files hidden within.
-
-A small part of the code is adopted from the book "Developing Games in Java" by David Brackeen (which, btw, is an okay book, at best)
+A small part of the code is adopted from the book "Developing Games in Java" by David Brackeen (which, btw, is an okay book, at best). There are a lot of good Mario resource files hidden within.
 
 <b>Controls</b>
 
@@ -26,6 +24,3 @@ Clone the repository and import into Eclipse.
 ![alt tag](http://www.devforrest.com/blog/wp-content/uploads/2012/02/mario-gameplay-1.jpg)
 ![alt tag](http://www.devforrest.com/blog/wp-content/uploads/2012/02/mario-gameplay-2.jpg)
 ![alt tag](http://www.devforrest.com/blog/wp-content/uploads/2012/02/mario-gameplay-3.jpg)
-
-
-
